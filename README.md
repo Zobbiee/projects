@@ -15,7 +15,7 @@ Designed a **machine learning workflow** to classify **bioactive molecules** usi
 ## 📱 Smartphone-Based Surface Tension Measurement
 Developed a **smartphone-based method** for measuring **water surface tension** using **capillary wave analysis** and **Python image processing**.  
 📊 **Validated results** using **linear regression**, achieving **close alignment with literature values**.  
-🛠 **Technologies Used:** OpenCV, NumPy, Python  
+🛠 **Technologies Used:** LaTeX, NumPy, Python  
 
 ## 🏗️ Single Crystal XRD Study of BCPS
 Conducted **diffraction studies** on **Bis(4-chlorophenyl) sulfone (BCPS)** to determine its **space group (C₂/c)**.  
